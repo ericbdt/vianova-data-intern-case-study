@@ -12,3 +12,7 @@ You should answer as if you were writting production code within your team. You 
 
 Please send us the link to your github repository with the answer of the exercise. 
 
+## About my code
+
+I have included in my code the process of creating the database and filling it with the information stored in a csv file.
+This process only has to be executed when generating the database for the first time, but afterwards it can just be commented and kept in case of updates (such as creation of new countries (like South Sudan recently), updating the populations, etc...).
